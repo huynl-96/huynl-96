@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br /> I'm Nguyen Luong Huy</h1>
-<h3 align="center">A passionate UI/UX developer specializing in <a href="https://vuejs.org/" target="_blank">VueJS</a> and <a href="https://nuxtjs.org/" target="_blank">NuxtJS</a></h3>
+<h3 align="center">A passionate UI/UX developer from Vietnam specializing in <a href="https://vuejs.org/" target="_blank">VueJS</a> and <a href="https://nuxtjs.org/" target="_blank">NuxtJS</a></h3>
 
 <br />
 
@@ -66,7 +66,12 @@
 
 ## Extra
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-  <img src="https://komarev.com/ghpvc/?username=huynl-96">
-</a>
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=huynl-96"></a>
 <a href="https://github.com/huynl-96?tab=followers"><img src="https://img.shields.io/github/followers/huynl-96?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<br />
+
+## Support me
+
+<a href="https://www.buymeacoffee.com/huynl96"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="huynl96" /></a>
+<a href="https://ko-fi.com/huynl96"><img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="huynl96" /></a>
