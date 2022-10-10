@@ -30,6 +30,7 @@
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://user-images.githubusercontent.com/15758406/177038823-3f8e73d0-dda7-42e0-abab-6aa95640cd76.png" alt="vscode" width="40" height="40"/></a>
   <a href="https://vuejs.org/" target="_blank"><img src="https://user-images.githubusercontent.com/15758406/177040589-c484a368-3bc3-4671-be02-051cb68318e4.png" alt="vuejs" width="40" height="40"/></a> <a href="https://vuepress.vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> </a> 
   <a href="https://vuetifyjs.com/en/" target="_blank"><img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/></a>
+  <a href="https://zod.dev/" target="_blank"><img src="https://github.com/colinhacks/zod/blob/master/logo.svg" alt="zod" width="40" height="40"/></a>
 </p>
 
 <br />
