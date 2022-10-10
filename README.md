@@ -5,10 +5,10 @@
 
 - 🎓 Computer Science Engineer, graduated in 2018 from [HCMIU](https://hcmiu.edu.vn/en/)
 - 🔭 I’m currently working as a Senior Frontend Engineer for [Money Forward Vietnam](https://corp.moneyforward.com/en/)
-- 🌱 I’m currently learning [Cypress](https://www.cypress.io/) and [Applitools](https://applitools.com/)
-- 👯 I’m looking to collaborate on **Open-source projects** related to Vue/Nuxt
+- 🌱 I’m currently learning [Cypress](https://www.cypress.io/) and [Playwright](https://playwright.dev/)
+- 👯 I’m looking to collaborate on **OSP** (open source projects)
 - 💬 Ask me about [Vue.js](https://vuejs.org/), [Nuxt.js](https://nuxtjs.org/), [Typescript](https://www.typescriptlang.org/)
-- ⚡ Fun fact: I love watching Japanese anime and listening to Rock
+- ⚡ My motto: `Coding without testing is like cooking without tasting. We're definitely not gonna like the outcome.`
 
 ## 🔨 Languages and Tools
 <p>
@@ -35,20 +35,8 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nguyen Luong Huy's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=huynl-96&theme=tokyonight_duo&hide_border=true&stroke=0000&background=060A0CD0"/>
-  </a>
-</p>
-
-<br />
-
-<p align="center">
   <a href="https://github.com/huynl-96"><img alt="Nguyen Luong Huy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=huynl-96&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
 </p>
-
-<br />
-
-<a href="https://github.com/huynl-96"><img alt="Nguyen Luong Huy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=huynl-96&theme=material-palenight&hide_border=true" /></a>
 
 <br />
 
