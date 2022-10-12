@@ -6,7 +6,7 @@
 - 🎓 Computer Science Engineer, graduated in 2018 from [HCMIU](https://hcmiu.edu.vn/en/)
 - 🔭 I’m currently working as a Senior Frontend Engineer for [Money Forward Vietnam](https://corp.moneyforward.com/en/)
 - 🌱 I’m currently learning [Cypress](https://www.cypress.io/) and [Playwright](https://playwright.dev/)
-- 👯 I’m looking to collaborate on **OSP** (open source projects)
+- 👯 I’m currently contributing to **OSS**
 - 💬 Ask me about [Vue.js](https://vuejs.org/), [Nuxt.js](https://nuxtjs.org/), [Typescript](https://www.typescriptlang.org/)
 - ⚡ My motto: `Coding without testing is like cooking without tasting. We're definitely not gonna like the outcome.`
 
