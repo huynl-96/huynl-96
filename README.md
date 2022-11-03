@@ -1,4 +1,5 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br /> I'm Nguyen Luong Huy</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h3 align="center">My name is Huy but you can call me Levi (pronouns /ˈliːvaɪ/)</h3>
 <h3 align="center">A passionate UI/UX developer from Vietnam specializing in <a href="https://vuejs.org/" target="_blank">VueJS</a> and <a href="https://nuxtjs.org/" target="_blank">NuxtJS</a></h3>
 
 <br />
@@ -60,7 +61,15 @@
 
 <br />
 
+## Leetcode
+![Rank](https://badges.peiyuan.ch/leetcode/huynl-96/ranking?logo=leetcode&label=huynl-96&color=green)
+![All](https://badges.peiyuan.ch/leetcode/huynl-96/solved)
+![Easy](https://badges.peiyuan.ch/leetcode/huynl-96/solved?difficulty=easy)
+![Medium](https://badges.peiyuan.ch/leetcode/huynl-96/solved?difficulty=medium)
+![Hard](https://badges.peiyuan.ch/leetcode/huynl-96/solved?difficulty=hard)
+
+<br />
+
 ## Support me
 
-<a href="https://www.buymeacoffee.com/huynl96"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="huynl96" /></a>
-<a href="https://ko-fi.com/huynl96"><img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="huynl96" /></a>
+<a href="https://www.paypal.me/huynl96"><img align="left" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c530.png" height="50" width="210" alt="huynl96" /></a>
