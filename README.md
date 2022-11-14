@@ -1,5 +1,5 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">My name is Huy but you can call me Levi (pronouns /ˈliːvaɪ/)</h3>
+<h3 align="center">My name is Huy but you can call me Levi (pronounce /ˈliːvaɪ/)</h3>
 <h3 align="center">A passionate UI/UX developer from Vietnam specializing in <a href="https://vuejs.org/" target="_blank">VueJS</a> and <a href="https://nuxtjs.org/" target="_blank">NuxtJS</a></h3>
 
 <br />
