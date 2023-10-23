@@ -5,7 +5,8 @@
 <br />
 
 - 🎓 Computer Science Engineer, graduated in 2018 from [HCMIU](https://hcmiu.edu.vn/en/)
-- 🔭 I’m currently working as a Senior Frontend Engineer for [Money Forward Vietnam](https://corp.moneyforward.com/en/)
+- 🙌 I’m a former Frontend Engineer for [Money Forward Vietnam](https://corp.moneyforward.com/en/)
+- 🔭 I’m currently working as a Frontend Engineer for [Travelstop](https://travelstop.com)
 - 🌱 I’m currently learning [Cypress](https://www.cypress.io/) and [Playwright](https://playwright.dev/)
 - 👯 I’m currently contributing to **OSS**
 - 💬 Ask me about [Vue.js](https://vuejs.org/), [Nuxt.js](https://nuxtjs.org/), [Typescript](https://www.typescriptlang.org/)
@@ -29,15 +30,8 @@
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a> 
   <a href="https://vitejs.dev/" target="_blank"><img src="https://user-images.githubusercontent.com/15758406/177040495-d9adfa74-1c22-4c65-87b1-b44d181d85e5.png" alt="vite" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://user-images.githubusercontent.com/15758406/177038823-3f8e73d0-dda7-42e0-abab-6aa95640cd76.png" alt="vscode" width="40" height="40"/></a>
-  <a href="https://vuejs.org/" target="_blank"><img src="https://user-images.githubusercontent.com/15758406/177040589-c484a368-3bc3-4671-be02-051cb68318e4.png" alt="vuejs" width="40" height="40"/></a> <a href="https://vuepress.vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> </a> 
   <a href="https://vuetifyjs.com/en/" target="_blank"><img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/></a>
   <a href="https://zod.dev/" target="_blank"><img src="https://github.com/colinhacks/zod/blob/master/logo.svg" alt="zod" width="40" height="40"/></a>
-</p>
-
-<br />
-
-<p align="center">
-  <a href="https://github.com/huynl-96"><img alt="Nguyen Luong Huy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=huynl-96&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
 </p>
 
 <br />
